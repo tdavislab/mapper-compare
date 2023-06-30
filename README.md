@@ -1,5 +1,5 @@
 # mapper-compare
-This is the source code for Combinatorial Exploration of Morse–Smale Functions on the Sphere via Interactive Visualization.
+This is the source code for Comparing Mapper Graphs of Artificial Neuron Activations.
 
 ### Download the repository
 
